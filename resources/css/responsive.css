@@ -115,6 +115,10 @@
     .span_1_of_4{
         width: 100%;
     }
+    .testimonial .span_1_of_2:nth-child(3),
+    .testimonial .span_1_of_2:nth-child(4) {
+        margin-top: 20px;
+    }
 }
 
 
