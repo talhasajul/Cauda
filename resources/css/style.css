@@ -175,7 +175,7 @@ header{
 
 .mobile-menu span{
     font-size: 4rem;
-    color: #fff;
+    color: #fff !important;
     margin-top: 2rem;
     float: right;
     display: none;
